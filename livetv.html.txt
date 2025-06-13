@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Live TV Channels</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fdfdfd;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #ff6600;
+    }
+    .channel-list a {
+      display: block;
+      margin: 10px 0;
+      font-size: 20px;
+      color: #0077cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Live TV Dekho Online</h1>
+  <p>Ei link gulo theke tumi official bhabe channel gulo dekhte parbe:</p>
+  <div class="channel-list">
+    <a href="https://www.hotstar.com/" target="_blank">Disney Channel (via Hotstar)</a>
+    <a href="https://www.jiotv.com/" target="_blank">Nick, Sonic (via JioTV)</a>
+    <a href="https://www.airtelxstream.in/" target="_blank">Hangama (via Airtel XStream)</a>
+  </div>
+</body>
+</html>
